@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Qué hago?
 
 - 🎓 **Tester de Software** Certificado  (Centro de Ensayos de Software, Facultad de Ingeniería, Udelar)
 - 💻 **Fullstack Developer**, especializado en Backend y bases de datos, Henry School
